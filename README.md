@@ -1,1 +1,1 @@
-# Timer-app-react
+# VowelCounter-app-react
